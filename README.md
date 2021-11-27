@@ -54,7 +54,7 @@ I asked one youtuber to review it, and he did it!
 More than 2 years passed, and I have rethought the project structure and architecture a lot of times.
 I don't care about the stars/likes, but repositories with stars attract some people :D
 
-That's why I put it in the dashboard page, and mentioned here
+That's why I put it in the dashboard page, and mentioned here.
 
 * <a href="https://www.youtube.com/watch?v=36KlSTM4uSA">Review video</a>
 * <a href="https://github.com/Arslanoov/laravel-store">Github Link</a>
@@ -65,7 +65,7 @@ That's why I put it in the dashboard page, and mentioned here
 This project might be the most useful in this list, because I created it for purpose.
 
 I created in very short time (few days), so I didn't use complicated architecture.
-This admin panel allows you to set up and control the server without any knowledge programming.
+This admin panel allows you to set up and control the server for the very popular game without any programming knowledge.
 
 I also used <a href="https://github.com/PSR-Framework/skeleton">my own framework</a> to create this project.
 
