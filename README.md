@@ -5,6 +5,9 @@
 
 Here is some products and libraries that I have made. Enjoy! :)
 
+I mentioned here only the best projects of mine. If you want to see the full list, you can visit
+<a href="https://github.com/Arslanoov/awesome">this page</a>.
+
 <img width="250px" src="https://user-images.githubusercontent.com/51407990/143682672-bf14ae59-b572-4e53-8a6b-6fee261b38bc.png" alt="Some russian meme"/>
 
 ### Framework
@@ -80,8 +83,3 @@ that's why I abandoned it a little (but you can fork it and maintain, of course 
 I am also working on my own website now.
 You can check it
 <a href="https://github.com/Arslanoov/red">here</a>.
-
-### Conclusion
-
-I mentioned only the best projects of mine. If you want to see the full list, you can visit
-<a href="https://github.com/Arslanoov/awesome">this page</a>.
