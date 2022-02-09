@@ -59,7 +59,7 @@ I asked one youtuber to review it, and he did it!
 More than 2 years passed, and I have rethought the project structure and architecture a lot of times.
 I don't care about the stars/likes, but repositories with stars attract some people :D
 
-That's why I put it in the dashboard page, and mentioned here.
+That's why I mentioned it here.
 
 * <a href="https://www.youtube.com/watch?v=36KlSTM4uSA">Review video</a>
 * <a href="https://github.com/Arslanoov/laravel-store">Github Link</a>
