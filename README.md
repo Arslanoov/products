@@ -2,6 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
+[![Views](https://views.whatilearened.today/views/github/Arslanoov/products.svg)](https://views.whatilearened.today/views/github/Arslanoov/products.svg)
 
 Here is some products and libraries that I have made. Enjoy! :)
 
@@ -46,7 +47,9 @@ They can be not very helpful and original, but creating them was very interestin
 In the future, I will think more about the usability.
 Here is the list of them:
 <ul>
-    <li><a href="https://github.com/Arslanoov/react-collection-ui">React Collection UI</a></li>
+    <li>
+        <b><a href="https://github.com/Arslanoov/react-collection-ui">React Collection UI</a></b>
+    </li>
     <li><a href="https://github.com/Arslanoov/vue-autocomplete">Vue autocomplete</a></li>
     <li><a href="https://github.com/Arslanoov/virtual-keyboard">Virtual Keyboard</a></li>
     <li><a href="https://github.com/Arslanoov/date-picker">Date picker</a></li>
