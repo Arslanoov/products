@@ -36,7 +36,7 @@ I created organization to separate repositories, related to this project.
 
 ### Libraries
 
-At this moment, I have created 1 Vue library and 2 TypeScript libraries.
+At this moment, I have created 1 React library, 1 Vue library and 2 TypeScript libraries.
 I also created TS template for creating libs.
 <br />
 <a href="https://www.npmjs.com/~arslanoov">My NPM Account</a>
@@ -46,6 +46,7 @@ They can be not very helpful and original, but creating them was very interestin
 In the future, I will think more about the usability.
 Here is the list of them:
 <ul>
+    <li><a href="https://github.com/Arslanoov/react-collection-ui">React Collection UI</a></li>
     <li><a href="https://github.com/Arslanoov/vue-autocomplete">Vue autocomplete</a></li>
     <li><a href="https://github.com/Arslanoov/virtual-keyboard">Virtual Keyboard</a></li>
     <li><a href="https://github.com/Arslanoov/date-picker">Date picker</a></li>
